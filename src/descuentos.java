@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class descuentos {
-    public static void descuentos() {
+    public static void descuentos_producto() {
         Scanner scanner = new Scanner(System.in);
         double precioOriginal;
 

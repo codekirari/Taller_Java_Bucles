@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class registradora {
-    public static void simularCaja() {
+    public static void caja_registradora() {
         Scanner scanner = new Scanner(System.in);
         double total = 0.0;
         int opcion;

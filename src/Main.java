@@ -25,10 +25,10 @@ public class Main {
 
                         switch (opcion) {
                             case 1:
-                                registradora.simularCaja();
+                                registradora.caja_registradora();
                                 break;
                             case 2:
-                                descuentos.calcularDescuentos();
+                                descuentos.descuentos_producto();
                                 break;
                             case 3:
                                 tabla_multiplicar.mostrarTabla();
@@ -37,7 +37,7 @@ public class Main {
                                 cajero.simularCajero();
                                 break;
                             case 5:
-                                contraseña.generarContrasena();
+                                contraseña.generarContraseña();
                                 break;
                             case 6:
                                 asistencia.registrarAsistencia();

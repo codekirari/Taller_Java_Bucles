@@ -1,3 +1,4 @@
+import java.util.Scanner;
 public class tabla_multiplicar {
     public static void mostrarTabla() {
         Scanner scanner = new Scanner(System.in);
